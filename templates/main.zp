@@ -2,4 +2,4 @@
   (export
    `({{name}} "{{name}}"))
 
-  ({{name}} (lambda args (error "TODO))))
+  ({{name}} (lambda args (error "TODO"))))
