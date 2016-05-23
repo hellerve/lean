@@ -1,0 +1,16 @@
+#{:name "lean" 
+  :version "0.0.1" 
+  :license "GPLv2" 
+  :entry-point "lean.zp" 
+  :type :template
+  :tests []
+  :author #{:name "Veit Heller" 
+            :email "veit@veitheller.de" 
+            :github "@hellerve"}
+  :location #{:github "hellerve/lean" 
+              :zpr "lean"}
+  :zepto #{:version :any
+           :ez #f
+           :bz #f}
+  :dependencies ("mustache@1.0.0")
+  :dev-dependencies ()}
