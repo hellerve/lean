@@ -4,7 +4,7 @@ A lean and simple zeps template.
 
 ## Installation
 
-lean is a regular zeps package, so running `zeps install hellerve/lean@0.1.0` should
+lean is a regular zeps package, so running `zeps install hellerve/lean@0.1.1` should
 be sufficient.
 
 ## Usage
