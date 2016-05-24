@@ -1,5 +1,5 @@
 (module "{{name}}"
   (export
-   `({{name}} "{{name}}"))
+   `("{{name}}" ,{{name}}))
 
   ({{name}} (lambda args (error "TODO"))))
