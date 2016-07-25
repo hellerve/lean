@@ -1,5 +1,5 @@
 #{:name "lean" 
-  :version "0.1.2" 
+  :version "0.1.3" 
   :license "GPLv2" 
   :entry-point "lean.zp" 
   :type :template
@@ -12,5 +12,5 @@
   :zepto #{:version :any
            :ez #f
            :bz #f}
-  :dependencies ("mustache@1.0.0")
+  :dependencies ("hellerve/mustache@1.0.0")
   :dev-dependencies ()}
