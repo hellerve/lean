@@ -1,13 +1,13 @@
-#{:name "lean" 
-  :version "0.1.4" 
-  :license "GPLv2" 
-  :entry-point "lean.zp" 
+#{:name "lean"
+  :version "0.1.5"
+  :license "GPLv2"
+  :entry-point "lean.zp"
   :type :template
   :tests []
-  :author #{:name "Veit Heller" 
-            :email "veit@veitheller.de" 
+  :author #{:name "Veit Heller"
+            :email "veit@veitheller.de"
             :github "@hellerve"}
-  :location #{:github "hellerve/lean" 
+  :location #{:github "hellerve/lean"
               :zpr "lean"}
   :zepto #{:version :any
            :ez #f
